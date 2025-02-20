@@ -1,3 +1,4 @@
+<img src="./banner.png">
 <h1 align="center">PixelGAN</h1>
 <div align="center">
   <a href="https://github.com/K1rsN7/BusinessLunchGAN/issues">
@@ -52,4 +53,14 @@
 <h2 align="center">Итоги Хакатона</h2>
 <div align='center'>
     <img src="https://github.com/DIMFLIX-HACKATONS/PixelGAN/blob/55581e863a63e96100c9a8a3c3a4a19c47e0b00f/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.png" alt="" />
+</div>
+<h2 align="center"> Star History</h2>
+<div align="center">
+<a href="https://star-history.com/#K1rsN7/BusinessLunchGAN&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=K1rsN7/BusinessLunchGAN&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=K1rsN7/BusinessLunchGAN&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=K1rsN7/SubManage&type=Date" />
+ </picture>
+</a>
 </div>
